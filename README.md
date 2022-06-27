@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Hassan220022
-- 👀 I’m interested in programing and hackintosh 
+- 👀 I have interest in programing and hackintosh 
 - 🌱 I’m currently studing computer engenering in AASTMT
 - 💞️ I’m looking to collaborate on any c project 
 - 📫 How to reach me "hassansherif122202@gmail.com"
