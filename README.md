@@ -1,22 +1,3 @@
- name: gitartwork from a contribution graph
- on: 
-   push:
-   schedule:
-     - cron: '* */24 * * *'
- jobs:
-   build:
-     name: Make gitartwork SVG
-     runs-on: ubuntu-latest
-     steps:
-       - uses: actions/checkout@v3
-       - uses: jasineri/gitartwork@v1
-         with:
-            # Use this username's contribution graph  
-            user_name: jasineri
-            # Text on contribution graph 
-            text: JASINERI
-       - uses: jasineri/simple-push-action@v1
-
 ![MasterHead](https://gifdb.com/images/high/the-matrix-system-coding-wroz02cv91yr0hha.webp)
 <h1 align="center">Hi 👋, I'm Hassan Mikawi</h1>
 <h3 align="center">Computer science engineering student at <a herif="https://aast.edu/en/index.php">the Arab Academy for Science, Technology & Maritime Transport.</a></h3>
