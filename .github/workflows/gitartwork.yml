@@ -14,5 +14,5 @@ jobs:
           # Use this username's contribution graph
           user_name: jasineri
           # Text on contribution graph
-          text: "Hello, World! ON BEHALF OF MIKAWI"
+          text: "MIKAWI 😘"
       - uses: jasineri/simple-push-action@v1
