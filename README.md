@@ -1,6 +1,6 @@
 ## Full stack Web Developer
 ![gitartwork](gitartwork.svg)
-<h1 align="center">Hi 👋, I'm Hassan Mikawi</h1>
+<h1 align="center">Hi 👋</h1>
 <h3 align="center">Computer engineering student at <a herif="https://aast.edu/en/index.php">the Arab Academy for Science, Technology & Maritime Transport.</a></h3>
 <h3 align="center">A passionate software developer from Egypt</h3>
 
