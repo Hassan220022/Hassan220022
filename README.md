@@ -70,6 +70,6 @@ I like turning messy product or operational problems into working software: map 
 ### GitHub stats
 
 <p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hassan220022&show_icons=true&theme=default&hide_border=true" alt="Hassan220022 GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan220022&layout=compact&theme=default&hide_border=true" alt="Hassan220022 top languages" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Hassan220022&theme=default" alt="Hassan220022 GitHub stats" />
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Hassan220022&theme=default" alt="Hassan220022 languages by repository" />
 </p>
