@@ -34,7 +34,7 @@ I like turning messy product or operational problems into working software: map 
 
 | Project | What it shows |
 | --- | --- |
-| [G2SCV] | AI-powered CV platform with FastAPI, RAG, Supabase, ATS scoring, and PDF generation. |
+| G2SCV | AI-powered CV platform with FastAPI, RAG, Supabase, ATS scoring, and PDF generation. |
 | Game Spot | Gaming venue booking SaaS/mobile platform with provider operations, payments, QR check-in, and analytics. |
 | [Flex Programming Language](https://github.com/Flex-Language) | AI-assisted programming language with parser, evaluator, web IDE, VS Code extension, and chatbot. |
 | [Akwarr](https://github.com/Hassan220022/akwarr) | Python API shim for Radarr/Sonarr and Jellyseerr Arabic Akwam downloads. |
