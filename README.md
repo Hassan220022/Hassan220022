@@ -1,24 +1,75 @@
-## Software engineer 
+## Software Engineer
+
 ![gitartwork](gitartwork.svg)
-<h1 align="center">Hi 👋, I'm ..</h1>
-<h3 align="center">Computer engineering Graduate at <a herif="https://aast.edu/en/index.php">the Arab Academy for Science, Technology & Maritime Transport.</a></h3>
-<h3 align="center">A passionate software developer from Egypt</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=hassan220022&label=Profile%20views&color=0e75b6&style=flat" alt="hassan220022" /> </p>
+<h1 align="center">Hi, I'm Mikawi</h1>
+<h3 align="center">Computer Engineering graduate from the Arab Academy for Science, Technology & Maritime Transport</h3>
+<p align="center">AI Security & full-stack software engineer from Egypt.</p>
 
-- 🔭 I’m currently working on [Full C compiler](https://github.com/Hassan220022/Compiler-Project)
-
-- 📫 How to reach me **hassansherif122202@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/mikawi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mikawi" height="30" width="40" /></a>
-<a href="https://www.instagram.com/hassan_sherif____/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/hassan_sherif____/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hassan220022&label=Profile%20views&color=0e75b6&style=flat" alt="hassan220022 profile views" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan220022&show_icons=true&locale=en&layout=compact" alt="hassan220022" /></p>
+### About me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hassan220022&show_icons=true&locale=en" alt="hassan220022" /></p>
+I build secure AI workflows, backend systems, mobile apps, and automation tools. My work spans LLM/RAG products, MCP tooling, FastAPI, Supabase, Flutter/Expo, telecom operations tooling, and systems projects in C/C++.
+
+I like turning messy product or operational problems into working software: map the domain, design the backend contract, build the client workflow, secure the important boundaries, and validate it with real usage.
+
+---
+
+### What I build
+
+- Secure AI and AppSec workflows.
+- Full-stack SaaS and mobile products.
+- Backend automation, APIs, dashboards, and data workflows.
+- Telecom operations tools for alarms, BDT validation, and backup-time analysis.
+- Systems projects: compilers, shells, embedded work, simulations, and terminal apps.
+
+---
+
+### Featured work
+
+| Project | What it shows |
+| --- | --- |
+| [G2SCV](https://g2scv.live) | AI-powered CV platform with FastAPI, RAG, Supabase, ATS scoring, and PDF generation. |
+| Game Spot | Gaming venue booking SaaS/mobile platform with provider operations, payments, QR check-in, and analytics. |
+| [Flex Programming Language](https://github.com/Flex-Language) | AI-assisted programming language with parser, evaluator, web IDE, VS Code extension, and chatbot. |
+| [Akwarr](https://github.com/Hassan220022/akwarr) | Python API shim for Radarr/Sonarr and Jellyseerr Arabic Akwam downloads. |
+| [OptiVista](https://github.com/Hassan220022/OptiVista) | AR-enhanced mobile e-commerce experience for eyewear shopping. |
+| [Quran Mobile App](https://github.com/Hassan220022/quran_moblie_app) | Flutter app for Quran reading, bookmarks, audio, prayer times, search, and themes. |
+
+---
+
+### Tech I use
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,fastapi,ts,js,nextjs,react,dart,flutter,c,cpp,java,html,css,bash,linux,docker,nginx,git,github,githubactions,supabase,postgres,redis,firebase,cloudflare,figma,arduino,pytorch,tensorflow" alt="skills" />
+</p>
+
+---
+
+### Connect with me
+
+<p align="left">
+  <a href="mailto:hassansherif122202@gmail.com">
+    <img src="https://img.shields.io/badge/Email-hassansherif122202%40gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+  </a>
+  <a href="https://www.linkedin.com/in/mikawi" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-mikawi-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://www.instagram.com/hassan_sherif____/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-hassan__sherif____-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+  </a>
+</p>
+
+---
+
+### GitHub stats
+
+<p align="left">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=hassan220022&show_icons=true&theme=default&hide_border=true" alt="Hassan220022 GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=hassan220022&layout=compact&theme=default&hide_border=true" alt="Hassan220022 top languages" />
+</p>
